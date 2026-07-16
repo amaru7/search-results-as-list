@@ -2,6 +2,8 @@
 
 🇬🇧 **English** | 🇩🇪 [Deutsch weiter unten](#-deutsch)
 
+![Search Results as List — before and after](graphics/promo.svg)
+
 Makes Thunderbird's **global search** (Gloda) show results **immediately as a
 message list** — instead of the cluttered faceted/card view that requires a
 manual click on "Show results as list" every single time.
