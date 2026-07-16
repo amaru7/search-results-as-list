@@ -2,9 +2,6 @@
 
 🇬🇧 **English** | 🇩🇪 [Deutsch weiter unten](#-deutsch)
 
-![Before: cluttered faceted view](graphics/real-before-facet.png)
-![After: clean sortable list](graphics/real-after-list.png)
-
 Makes Thunderbird's **global search** (Gloda) show results **immediately as a
 message list** — instead of the cluttered faceted/card view that requires a
 manual click on "Show results as list" every single time.
@@ -103,9 +100,6 @@ MIT — see [LICENSE](LICENSE). Contributions and bug reports welcome.
 ---
 
 # 🇩🇪 Deutsch
-
-![Vorher: überladene Facettenansicht](graphics/real-before-facet.png)
-![Nachher: übersichtliche, sortierbare Liste](graphics/real-after-list.png)
 
 Macht in Thunderbird die **globale Suche** (Gloda) so, dass die Ergebnisse
 **immer sofort als Nachrichtenliste** erscheinen – statt der überladenen
