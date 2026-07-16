@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Search Results as List",
+  "description": "Always show Thunderbird global search results as a compact, sortable message list — no more clicking 'Show results as list' every time.",
+  "version": "1.0.0",
+  "author": "aalkhanchi",
+  "homepage_url": "https://github.com/aalkhanchi/search-results-as-list",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "search-results-as-list@aalkhanchi",
+      "strict_min_version": "128.0",
+      "strict_max_version": "152.*"
+    }
+  },
+  "icons": {
+    "32": "icon.svg",
+    "64": "icon.svg"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "experiment_apis": {
+    "searchAsList": {
+      "schema": "api/searchAsList/schema.json",
+      "parent": {
+        "scopes": ["addon_parent"],
+        "paths": [["searchAsList"]],
+        "script": "api/searchAsList/implementation.js"
+      }
+    }
+  }
+}

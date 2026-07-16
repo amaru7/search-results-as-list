@@ -1,0 +1,14 @@
+[
+  {
+    "namespace": "searchAsList",
+    "functions": [
+      {
+        "name": "register",
+        "type": "function",
+        "description": "Installs the window hook that redirects global-search (gloda facet) tabs to a message list.",
+        "async": true,
+        "parameters": []
+      }
+    ]
+  }
+]
