@@ -14,8 +14,8 @@ list the default.
 
 ![After: sortable message list](graphics/real-after-list.png)
 
-Works with **Thunderbird 128, 140, 152 and newer**. Collects no data, contacts
-no servers.
+Works with **Thunderbird 128 and newer**. Collects no data, contacts no
+servers.
 
 ## Install
 
@@ -74,7 +74,7 @@ klicken. Dieses Add-on macht die Liste zum Standard.
 
 ![Nachher: sortierbare Nachrichtenliste](graphics/real-after-list.png)
 
-Funktioniert mit **Thunderbird 128, 140, 152 und neuer**. Sammelt keine Daten,
+Funktioniert mit **Thunderbird 128 und neuer**. Sammelt keine Daten,
 kontaktiert keine Server.
 
 ## Installieren
